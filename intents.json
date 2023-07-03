@@ -1,0 +1,58 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Namaskar",
+                "Hello",
+                "Namaste",
+                "Hey",
+                "Hello",
+                "I need help"
+            ],
+            "responses": [
+                "Hey there",
+                "How can I help you?",
+                "Namaste"
+            ]
+        },
+        {
+            "tag": "departure",
+            "patterns":["Bye", "Goodbye", "Quit", "See You Later"],
+            "responses":[
+                "See You Later",
+                "Thanks for visiting",
+                "Have a nice day!"
+            ]
+        },
+        {
+            "tag":"gratitude",
+            "patterns":["Thanks", "You were helpful"],
+            "responses":["Happy too help!", "Anytime!", "It's been a pleasure"]
+        },
+        {
+            "tag":"humour",
+            "patterns":[
+                "Tell me a joke",
+                "Humour me",
+                "Say something funny"
+            ],
+            "responses":[
+                "An apple a day keeps me inactive for a day",
+                "This is a medical chatbot. Don't expect me to crack jokes"
+            ]
+        },
+        {
+            "tag":"disease_info_DrugReaction",
+            "patterns":[
+                "Please tell me about Drug Reaction",
+                "What is Drug Reaction?",
+                "Explain Drug Reaction"
+            ],
+            "responses":[
+                "An adverse drug reaction (ADR) is an injury caused by taking medication. ADRs may occur following a single dose or prolonged administration of a drug or result from the combination of two or more drugs."
+            ]
+        }
+    ]
+}
