@@ -8,7 +8,7 @@ import json
 import pandas as pd
 import numpy as np
 
-get_ipython().run_line_magic('run', 'Tokenization_and_stemming.py import tokenize, stem, bag_of_words')
+get_ipython().run_line_magic('run', 'Tokenization_and_stemming.ipynb import tokenize, stem, bag_of_words')
 
 import torch
 import torch.nn as nn
