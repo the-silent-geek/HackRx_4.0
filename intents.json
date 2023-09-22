@@ -161,7 +161,7 @@
                 "Explain strokes"
             ],
             "responses": [
-                "A stroke, also known as a cerebrovascular accident (CVA), is a medical emergency that occurs when there is a disruption of blood flow to the brain. Strokes can be ischemic (caused by a blood clot blocking an artery) or hemorrhagic (caused by a ruptured blood vessel in the brain). Symptoms of a stroke may include
+                "A stroke, also known as a cerebrovascular accident (CVA), is a medical emergency that occurs when there is a disruption of blood flow to the brain. Strokes can be ischemic (caused by a blood clot blocking an artery) or hemorrhagic (caused by a ruptured blood vessel in the brain). Symptoms of a stroke may include"
 ]
 },
         {
@@ -294,6 +294,117 @@
             ],
             "responses": [
                 "Glaucoma is a group of eye conditions that can damage the optic nerve, leading to vision loss and blindness. It is often associated with increased intraocular pressure. Glaucoma may not cause symptoms until it's advanced. Treatment includes medications, laser therapy, and surgery to lower eye pressure."
+            ]
+        },
+        
+        {
+            "tag": "disease_info_Osteoarthritis",
+            "patterns": [
+                "Please tell me about Osteoarthritis",
+                "What is Osteoarthritis?",
+                "Explain Osteoarthritis"
+            ],
+            "responses": [
+                "Osteoarthritis is a degenerative joint disease that affects the cartilage in your joints. It can cause joint pain and stiffness, especially in the knees, hips, and hands. Over time, the cartilage can wear away, leading to bone-on-bone contact. Treatment includes pain management, physical therapy, and in some cases, joint replacement surgery."
+            ]
+        },
+        {
+            "tag": "disease_info_Crohn's_Disease",
+            "patterns": [
+                "Please tell me about Crohn's Disease",
+                "What is Crohn's Disease?",
+                "Explain Crohn's Disease"
+            ],
+            "responses": [
+                "Crohn's disease is a chronic inflammatory bowel disease that can affect any part of the digestive tract. It often leads to abdominal pain, diarrhea, fatigue, and weight loss. The exact cause is unknown, but it involves an abnormal immune response. Treatment includes medications to reduce inflammation, manage symptoms, and, in some cases, surgery to remove damaged portions of the intestine."
+            ]
+        },
+        {
+            "tag": "disease_info_Schizophrenia",
+            "patterns": [
+                "Please tell me about Schizophrenia",
+                "What is Schizophrenia?",
+                "Explain Schizophrenia"
+            ],
+            "responses": [
+                "Schizophrenia is a severe mental disorder characterized by distorted thinking, hallucinations, delusions, and impaired social functioning. It usually emerges in late adolescence or early adulthood. The exact cause is unclear, but genetics and environmental factors may play a role. Treatment involves antipsychotic medications, psychotherapy, and support services."
+            ]
+        },
+        {
+            "tag": "disease_info_Rosacea",
+            "patterns": [
+                "Please tell me about Rosacea",
+                "What is Rosacea?",
+                "Explain Rosacea"
+            ],
+            "responses": [
+                "Rosacea is a chronic skin condition that causes redness, visible blood vessels, and pimple-like bumps on the face. It can also affect the eyes (ocular rosacea). The exact cause is unknown, but factors like genetics and environmental triggers may contribute. Treatment includes topical and oral medications, as well as lifestyle changes to manage triggers."
+            ]
+        },
+        {
+            "tag": "disease_info_Bipolar_Disorder",
+            "patterns": [
+                "Please tell me about Bipolar Disorder",
+                "What is Bipolar Disorder?",
+                "Explain Bipolar Disorder"
+            ],
+            "responses": [
+                "Bipolar disorder is a mental health condition characterized by extreme mood swings, including manic episodes (highs) and depressive episodes (lows). It can disrupt daily life and affect relationships. The exact cause is complex, involving genetic and environmental factors. Treatment includes mood-stabilizing medications and psychotherapy."
+            ]
+        },
+        {
+            "tag": "disease_info_Endometriosis",
+            "patterns": [
+                "Please tell me about Endometriosis",
+                "What is Endometriosis?",
+                "Explain Endometriosis"
+            ],
+            "responses": [
+                "Endometriosis is a painful disorder in which tissue similar to the lining of the uterus (endometrium) grows outside the uterus. It can cause pelvic pain, heavy periods, and fertility problems. The exact cause is not fully understood. Treatment may involve pain relief medications, hormone therapy, and surgery to remove the abnormal tissue."
+            ]
+        },
+        {
+            "tag": "disease_info_Psoriatic_Arthritis",
+            "patterns": [
+                "Please tell me about Psoriatic Arthritis",
+                "What is Psoriatic Arthritis?",
+                "Explain Psoriatic Arthritis"
+            ],
+            "responses": [
+                "Psoriatic arthritis is a type of inflammatory arthritis that affects some people with psoriasis, a skin condition. It can cause joint pain, stiffness, and swelling, along with skin symptoms. The exact cause is unclear but likely involves genetic and immune system factors. Treatment includes medications to reduce inflammation, physical therapy, and lifestyle changes."
+            ]
+        },
+        {
+            "tag": "disease_info_Anorexia_Nervosa",
+            "patterns": [
+                "Please tell me about Anorexia Nervosa",
+                "What is Anorexia Nervosa?",
+                "Explain Anorexia Nervosa"
+            ],
+            "responses": [
+                "Anorexia nervosa is an eating disorder characterized by an intense fear of gaining weight and a distorted body image. It often leads to severe weight loss and malnutrition. The exact cause is complex and may involve genetic, psychological, and societal factors. Treatment involves medical and psychological interventions, including therapy and nutritional support."
+            ]
+        },
+        {
+            "tag": "disease_info_Melanoma",
+            "patterns": [
+                "Please tell me about Melanoma",
+                "What is Melanoma?",
+                "Explain Melanoma"
+            ],
+            "responses": [
+                "Melanoma is a type of skin cancer that begins in melanocytes, the cells that produce pigment in the skin. It can appear as moles or abnormal skin growths. UV exposure is a significant risk factor. Treatment includes surgical removal, immunotherapy, targeted therapy, and radiation therapy, depending on the stage and location of the melanoma."
+            ]
+        },
+        {
+            "tag": "disease_info_Parkinson's",
+            "patterns": [
+                "Please tell me about Parkinson's disease",
+                "What is Parkinson's?",
+                "Explain Parkinson's"
+            ],
+            "responses": [
+                "Parkinson's disease is a progressive neurological disorder that primarily affects movement. It is characterized by tremors, stiffness, slow movements, and difficulty with balance and coordination. Parkinson's disease results from the loss of dopamine-producing cells in the brain. While there is no cure, medications and therapies can help manage the symptoms and improve the quality of life for individuals with Parkinson's disease."
             ]
         }
     ]
