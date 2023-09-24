@@ -406,6 +406,84 @@
             "responses": [
                 "Parkinson's disease is a progressive neurological disorder that primarily affects movement. It is characterized by tremors, stiffness, slow movements, and difficulty with balance and coordination. Parkinson's disease results from the loss of dopamine-producing cells in the brain. While there is no cure, medications and therapies can help manage the symptoms and improve the quality of life for individuals with Parkinson's disease."
             ]
+        },
+        
+        {
+            "tag": "disease_info_Ebola",
+            "patterns": [
+                "Please tell me about Ebola",
+                "What is Ebola?",
+                "Explain Ebola"
+            ],
+            "responses": [
+                "Ebola virus disease (EVD) is a severe and often fatal illness caused by the Ebola virus. It can lead to symptoms such as fever, fatigue, muscle pain, and hemorrhagic fever. Ebola is transmitted through direct contact with the blood, secretions, or organs of infected animals or humans. Treatment involves supportive care, including fluid replacement and symptom management."
+            ]
+        },
+        {
+            "tag": "disease_info_Hemophilia",
+            "patterns": [
+                "Please tell me about Hemophilia",
+                "What is Hemophilia?",
+                "Explain Hemophilia"
+            ],
+            "responses": [
+                "Hemophilia is a rare genetic disorder that impairs the blood's ability to clot properly. People with hemophilia may experience prolonged bleeding after injuries or surgeries. There are different types of hemophilia (e.g., hemophilia A, hemophilia B), and treatment involves clotting factor replacement therapy to prevent or control bleeding episodes."
+            ]
+        },
+        {
+            "tag": "disease_info_Lupus",
+            "patterns": [
+                "Please tell me about Lupus",
+                "What is Lupus?",
+                "Explain Lupus"
+            ],
+            "responses": [
+                "Lupus, or systemic lupus erythematosus (SLE), is an autoimmune disease that can affect various parts of the body, including the skin, joints, and organs. It often presents with symptoms such as joint pain, skin rashes, fatigue, and fever. Treatment includes medications to manage symptoms and control the immune system's response."
+            ]
+        },
+        {
+            "tag": "disease_info_Sickle_Cell_Anemia",
+            "patterns": [
+                "Please tell me about Sickle Cell Anemia",
+                "What is Sickle Cell Anemia?",
+                "Explain Sickle Cell Anemia"
+            ],
+            "responses": [
+                "Sickle Cell Anemia is an inherited blood disorder characterized by abnormal hemoglobin, which causes red blood cells to become misshapen and break down. This leads to anemia and pain episodes called crises. It primarily affects people of African, Mediterranean, and Middle Eastern descent. Treatment includes pain management, blood transfusions, and medications to reduce complications."
+            ]
+        },
+        {
+            "tag": "disease_info_Tuberculosis",
+            "patterns": [
+                "Please tell me about Tuberculosis",
+                "What is Tuberculosis?",
+                "Explain Tuberculosis"
+            ],
+            "responses": [
+                "Tuberculosis (TB) is a bacterial infection caused by Mycobacterium tuberculosis. It primarily affects the lungs but can also impact other organs. Symptoms may include persistent cough, fever, and weight loss. TB is contagious and spreads through the air when an infected person coughs or sneezes. Treatment involves antibiotics taken for several months to kill the bacteria."
+            ]
+        },
+        {
+            "tag": "disease_info_Huntington's_Disease",
+            "patterns": [
+                "Please tell me about Huntington's Disease",
+                "What is Huntington's Disease?",
+                "Explain Huntington's Disease"
+            ],
+            "responses": [
+                "Huntington's Disease is a hereditary neurodegenerative disorder that affects movement, cognition, and behavior. It is caused by a mutation in the HTT gene. Symptoms often appear in mid-adulthood and worsen over time. They may include involuntary movements (chorea), mood changes, and cognitive decline. While there is no cure, treatment focuses on managing symptoms and providing support through medications and therapy."
+            ]
+        },
+        {
+            "tag": "disease_info_Lyme_Disease",
+            "patterns": [
+                "Please tell me about Lyme Disease",
+                "What is Lyme Disease?",
+                "Explain Lyme Disease"
+            ],
+            "responses": [
+                "Lyme Disease is an infectious disease caused by the bacterium Borrelia burgdorferi and transmitted through the bite of infected ticks. It can lead to symptoms such as fever, fatigue, joint pain, and a characteristic skin rash called erythema migrans. Early treatment with antibiotics is effective, but if left untreated, Lyme Disease can lead to more severe symptoms affecting the joints, heart, and nervous system."
+            ]
         }
     ]
 }
